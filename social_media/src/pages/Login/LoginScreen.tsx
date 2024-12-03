@@ -43,13 +43,8 @@ const LoginScreen = () => {
       <div className="flex flex-col max-w-full">
         <div className="flex flex-col px-7 py-2 w-[389px] h-[440px] rounded-xl bg-zinc-100 shadow-2xl">
           <div className="self-center w-[54%] h-[15%] mt-[12px] max-w-full w-[351px]">
-            <div className="flex items-center justify-center">
-              <img
-                src="/static/media/Logo_festix.6dafeac744167eb4b442.png"
-                alt="Festix"
-                className="w-8 h-12 mr-3 cursor-pointer"
-              />
-              <h1 className="text-black text-3xl font-bold ">Festix</h1>
+            <div className="flex items-center justify-center">              
+              <h1 className="text-black text-3xl font-bold ">Social Media</h1>
             </div>
           </div>
           <form
